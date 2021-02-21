@@ -51,10 +51,10 @@ public class Math {
 									else if (d == 9)
 											return "Сентябрь";
 										else if (d == 10)
-													return "Октябрь";
+												return "Октябрь";
 											else if (d == 11)
-														return "Ноябрь";
+													return "Ноябрь";
 												else
-															return "Декабрь";
+													return "Декабрь";
 	}                                                                                                                                                                                                 
 }
